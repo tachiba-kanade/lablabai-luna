@@ -1,4 +1,4 @@
-# Welcome to Chainlit! 🚀🤖
+# Welcome to LUNA! A RAG-powered Chatbot for Improved Menstrual Health Management in South Asia🚀🤖
 
 Hi there, Developer! 👋 We're excited to have you on board. Chainlit is a powerful tool designed to help you prototype, debug and share applications built on top of LLMs.
 
